@@ -63,8 +63,8 @@ MIT License<br> Please read the [License](https://github.com/gokulnair2001/AR-Tr
 
 # Credits for 3D Model ⭐️
 * [Sketchfab](https://sketchfab.com/feed)
-* Creator(Tour 1): [Azad Balabanian](https://sketchfab.com/3d-models/fort-carre-antibes-france-0a42b3d77fa5462e8a53287ae57bb77e) :Glad to work with you
-* Creator(Tour 2): [Azad Balabanian](https://sketchfab.com/3d-models/eze-village-france-a18a1449661643e6ab98640a3e7eafc1) :Glad to work with you
+* Creator(Tour 1): [Azad Balabanian](https://sketchfab.com/3d-models/fort-carre-antibes-france-0a42b3d77fa5462e8a53287ae57bb77e) :Glad to work with you.
+* Creator(Tour 2): [Azad Balabanian](https://sketchfab.com/3d-models/eze-village-france-a18a1449661643e6ab98640a3e7eafc1) :Glad to work with you.
 
 # Imortant Message ✉️
 
