@@ -11,7 +11,7 @@
 ![badge](https://img.shields.io/badge/360°-View-red)
 
 # Introduction ⚒  
-AR Travel is an AR based App, which detects a particular card and creates a 360° view of various places.The app detects a particular set of card and creates a whole 
+AR Travel is an AR based app, which detects a particular card and creates a 360° view of various places.The app detects a particular set of card and creates a whole 
 AR world arround you.
 
 # Uses 🌏
